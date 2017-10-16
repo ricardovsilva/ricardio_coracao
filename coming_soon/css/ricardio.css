@@ -1,0 +1,41 @@
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+body{
+    overflow: hidden !important;
+    background:url('../images/chicken_wallpaper.jpg');
+}
+
+.simply-section.simply-days-section{
+    display: none;
+}
+
+.fh5co-social-icons {
+    text-align: left;
+}
+
+
+.fh5co-social-icons li{
+    display: block !important;
+    margin-top: 10px !important;
+    margin-left: 40px !important;
+}
+
+.fh5co-social-icons li a{
+    color: gold;
+}
+
+.fh5co-social-icons span {
+    margin-left: 10px;
+    top: -5px;
+    position: relative;
+}
+
+h2:nth-of-type(1){
+    margin-bottom: 40px !important;
+}
+
+.countdown-wrap {
+    background-color:rgba(35,35,37, 0.8) !important;
+}
